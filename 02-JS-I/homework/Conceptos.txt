@@ -1,0 +1,11 @@
+VARIABLES: son un espacio en donde guardar datos para poder usarlos mas tarde.
+
+STRINGS: Es un tipo de dato. Se refiere a un 'hilo' de caracteres que se leen como texto
+
+FUNCIONES: invoca código que podemos invocar y ejecutar luego, para no tener que repetirlo todo el tiempo
+	ARGUMENTOS: son como variables dentro de una función, que van a tomar un valor recien cuando 	se invoque dicha función
+	RETURN: es un comando que sirve para que una función devuelva un resultado (en realidad siempre devuelven un resultado, pero es undefined). Es la única manera de acceder a los datos de una función por fuera de ella. Al llegar a un return, la función se detiene automáticamente.
+
+DECLARACION IF: es una condición. Hace que nuestra función verifique si algo es True o False. En caso de que se cumpla dicha condición ejecuta True, caso contrario ejecuta False.
+
+VALORES BOOLEANOS: son otro tipo de datos. Solo hay 2 posibilidades: true o false. Todos los caracteres tienen su representación en una de estas 2 posibilidades.
