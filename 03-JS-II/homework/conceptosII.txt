@@ -1,0 +1,7 @@
+FOR:  es una declaración condicional (como IF). Su traducción es PARA). Se usa para declarar bucles. 	Evalua una expresión condicional y sigue ejecutando el bucle mientras esa función devuelva true. Cuando sea false dejara de ejecutarse y saldrá del bucle.
+
+&&: operado lógico AND. Basta con que una de las condiciones sea falsa para que devuelva false. Ambas deben ser true para que devuelva true.
+
+||: operador lógico OR. Para que devuelva true, solo una de las condiciones deber ser verdadera. Para que sea false todas las condiciones deben ser falsas.
+
+!: operador lógico NOT. Es la negación de una declaración. Devuelve el resultado contrario.
